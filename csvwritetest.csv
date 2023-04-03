@@ -1,0 +1,5 @@
+"patientid","age","diabetes","status"
+1,22,"type1","poor"
+3,3,"type2","improved"
+NA,45,"type1","excellent"
+5,66,"type2","poor"
