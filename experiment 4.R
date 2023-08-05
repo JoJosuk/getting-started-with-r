@@ -1,3 +1,5 @@
+# find the factorial of the largest sum of the unique rows in a table the input is read from a text file
+
 fact=function(x){
     if (x==1) return (1)
     else
