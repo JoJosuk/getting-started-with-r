@@ -11,9 +11,9 @@
         3. Use apply function to find maximum of each row and column
 4. experiment 6
     - write a program  to perform the following tasks
-        1)check if the data is normally distributed
-        2)implement a program to check variance,covariance,and correlation between various attributes.get all three correlation
-        3)display the patterns which spans across the columns and the input should be taken from the file
+        1.check if the data is normally distributed
+        2.implement a program to check variance,covariance,and correlation between various attributes.get all three correlation
+        3.display the patterns which spans across the columns and the input should be taken from the file
 5. experiment 7
     - write a program to solve linear regressions and make the predictions
 6. experiment 8
